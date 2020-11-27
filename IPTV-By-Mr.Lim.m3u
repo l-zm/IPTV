@@ -1,38 +1,142 @@
 #EXTM3U
-#EXTINF:-1,CCTV 测试
-http://hdtv.haust.edu.cn/hls/cctv11hd.m3u8
-#EXTINF:-1,CCTV 1
-http://hdtv.haust.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1,CCTV 2
-http://hdtv.haust.edu.cn/hls/cctv2hd.m3u8
-#EXTINF:-1,CCTV 3
-http://hdtv.haust.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1,CCTV 4
-http://hdtv.haust.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1,CCTV 5
-http://hdtv.haust.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1,CCTV 5+
-http://hdtv.haust.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1,CCTV 6
-http://hdtv.haust.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1,CCTV 7
-http://hdtv.haust.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1,CCTV 8
-http://hdtv.haust.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1,CCTV 9
-http://hdtv.haust.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1,CCTV 10
-http://hdtv.haust.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1,CCTV 11
-http://hdtv.haust.edu.cn/hls/jlu_cctv11hd.m3u8
-#EXTINF:-1,CCTV 12
-http://hdtv.haust.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1,CCTV 13
+#EXTINF:-1,CCTV 13 新闻
 http://hdtv.haust.edu.cn/hls/cctv13hd.m3u8
-#EXTINF:-1,CCTV 14
-http://hdtv.haust.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1,CCTV 4K 超高清
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1,CCTV 4K 超高清
+http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1,CCTV 1 综合
+http://hdtv.haust.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1,CCTV 2 财经
+http://hdtv.haust.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1,CCTV 3 综艺
+http://hdtv.haust.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1,CCTV 4 中文国际
+http://hdtv.haust.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1,CCTV 5 体育
+http://hdtv.haust.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1,CCTV 5+ 体育赛事
+http://hdtv.haust.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1,CCTV 6 电影
+http://hdtv.haust.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1,CCTV 7 国防军事
+http://hdtv.haust.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1,CCTV 8 电视剧
+http://hdtv.haust.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1,CCTV 9 记录
+http://hdtv.haust.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1,CCTV 10 科教
+http://hdtv.haust.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1,CCTV 11 戏曲
+http://hdtv.haust.edu.cn/hls/jlu_cctv11hd.m3u8
+#EXTINF:-1,CCTV 12 社会与法
+http://hdtv.haust.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1,CCTV 13 新闻
+http://hdtv.haust.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1,CCTV 14 少儿
+http://hdtv.haust.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1,CCTV 15 音乐
+http://hdtv.haust.edu.cn/hls/jlu_cctv15hd.m3u8
+#EXTINF:-1,CCTV 17 农业农村
+http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
+#EXTINF:-1,CCTV 风云足球
+http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
+#EXTINF:-1,CCTV 怀旧剧场
+http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
+#EXTINF:-1,CCTV 兵器科技
+http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
+#EXTINF:-1,CCTV 第一剧场(待完善)
+http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
+#EXTINF:-1,CGTN 中国国际电视台新闻频道
+http://hdtv.haust.edu.cn/hls/hls67a44.m3u8
+#EXTINF:-1,湖南卫视
+http://hdtv.haust.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1,浙江卫视
+http://hdtv.haust.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1,江苏卫视
+http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1,BTV 北京卫视
+http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1,东方卫视
+http://liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1,安徽卫视
+http://liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1,广东卫视
+http://liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1,深圳卫视
+http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1,辽宁卫视
+http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1,海南卫视
+http://hdtv.haust.edu.cn/hls/lyhd.m3u8
+#EXTINF:-1,山东卫视
+http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1,天津卫视
+http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1,重庆卫视
+http://hdtv.haust.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1,东南卫视
+http://liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1,甘肃卫视
+http://hdtv.haust.edu.cn/hls/gstv.m3u8
+#EXTINF:-1,广西卫视
+http://hdtv.haust.edu.cn/hls/gxhd.m3u8
+#EXTINF:-1,贵州卫视
+http://hdtv.haust.edu.cn/hls/gzhd.m3u8
+#EXTINF:-1,河北卫视
+http://hdtv.haust.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1,黑龙江卫视
+http://hdtv.haust.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1,河南卫视
+http://hdtv.haust.edu.cn/hls/hnhd.m3u8
+#EXTINF:-1,湖北卫视
+http://hdtv.haust.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1,江西卫视
+http://hdtv.haust.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1,吉林卫视
+http://hdtv.haust.edu.cn/hls/jlhd.m3u8
+#EXTINF:-1,内蒙古卫视
+http://hdtv.haust.edu.cn/hls/nmtv.m3u8
+#EXTINF:-1,宁夏卫视
+http://hdtv.haust.edu.cn/hls/nxtv.m3u8
+#EXTINF:-1,山西卫视
+http://hdtv.haust.edu.cn/hls/sxrtv.m3u8
+#EXTINF:-1,陕西卫视
+http://hdtv.haust.edu.cn/hls/sxtv.m3u8
+#EXTINF:-1,四川卫视
+http://hdtv.haust.edu.cn/hls/schd.m3u8
+#EXTINF:-1,新疆卫视
+http://hdtv.haust.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1,西藏卫视
+http://hdtv.haust.edu.cn/hls/xztv.m3u8
+#EXTINF:-1,云南卫视
+http://hdtv.haust.edu.cn/hls/yntv.m3u8
+#EXTINF:-1,青海卫视
+http://hdtv.haust.edu.cn/hls/qhtv.m3u8
+#EXTINF:-1,兵团卫视
+http://hdtv.haust.edu.cn/hls/bttv.m3u8
+#EXTINF:-1,延边卫视
+http://hdtv.haust.edu.cn/hls/hls161.m3u8
+#EXTINF:-1,厦门卫视
+http://hdtv.haust.edu.cn/hls/xmtv.m3u8
+#EXTINF:-1,金鹰卡通
+http://hdtv.haust.edu.cn/hls/jykttv.m3u8
+#EXTINF:-1,CETV-1 中国教育电视台一套
+http://hdtv.haust.edu.cn/hls/cetv1hd.m3u8
+#EXTINF:-1,CETV-2 中国教育电视台二套
+http://111.20.45.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225756/1.m3u8
+#EXTINF:-1,CETV-3 中国教育电视台三套
+http://111.20.45.154/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+#EXTINF:-1,CETV-4 中国教育电视台四套
+http://111.20.45.154/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+#EXTINF:-1,CHC 高清电影
+http://hdtv.haust.edu.cn/hls/chchd.m3u8
+#EXTINF:-1,CHC 动作电影
+http://hdtv.haust.edu.cn/hls/chcatv.m3u8
+#EXTINF:-1,CHC 家庭影院
+http://hdtv.haust.edu.cn/hls/chctv.m3u8
+#EXTINF:-1国学频道
+http://hdtv.haust.edu.cn/hls/hls100.m3u8
 #EXTINF:-1,IPTV-BACK
 http://
 #EXTINF:-1,CCTV 1
@@ -51,3 +155,7 @@ http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226565/index.m3u8
 #EXTINF:-1,CCTV 14
 http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
+#EXTINF:-1,湖南卫视
+http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
+#EXTINF:-1,浙江卫视
+http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
