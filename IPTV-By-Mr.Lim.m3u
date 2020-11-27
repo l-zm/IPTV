@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,CCTV 测试
+http://hdtv.haust.edu.cn/hls/cctv11hd.m3u8
+#EXTINF:-1,CCTV 1
+http://hdtv.haust.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1,CCTV 2
+http://hdtv.haust.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1,CCTV 3
+http://hdtv.haust.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1,CCTV 4
+http://hdtv.haust.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1,CCTV 5
+http://hdtv.haust.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1,CCTV 5+
+http://hdtv.haust.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1,CCTV 6
+http://hdtv.haust.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1,CCTV 7
+http://hdtv.haust.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1,CCTV 8
+http://hdtv.haust.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1,CCTV 9
+http://hdtv.haust.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1,CCTV 10
+http://hdtv.haust.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1,CCTV 11
+http://hdtv.haust.edu.cn/hls/jlu_cctv11hd.m3u8
+#EXTINF:-1,CCTV 12
+http://hdtv.haust.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1,CCTV 13
+http://hdtv.haust.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1,CCTV 14
+http://hdtv.haust.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1,CCTV 4K 超高清
+http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1,IPTV-BACK
+http://
+#EXTINF:-1,CCTV 1
+http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
+#EXTINF:-1,CCTV 1
+http://117.148.187.37/PLTV/88888888/224/3221226589/index.m3u8
+#EXTINF:-1,CCTV 1
+http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1,CCTV 3
+http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/2300000/mnf.m3u8
+#EXTINF:-1,CCTV 3
+http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
+#EXTINF:-1,CCTV 5+
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
+#EXTINF:-1,CCTV 14
+http://117.148.187.37/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1,CCTV 14
+http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
