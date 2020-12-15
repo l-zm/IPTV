@@ -1,10 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV 1" tvg-logo="https://l-zm.github.io/IPTV/cctv-logo/CCTV-1_Logo.png" group-title="央视",CCTV 1 综合
+http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV 2" tvg-logo="https://l-zm.github.io/IPTV/cctv-logo/CCTV-2_Logo.png" group-title="央视",CCTV 2 财经
+http://117.148.187.37/PLTV/88888888/224/3221226138/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV 3" tvg-logo="https://l-zm.github.io/IPTV/cctv-logo/CCTV-3_Logo.png" group-title="央视",CCTV 3 综艺
+http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV 4" tvg-logo="https://l-zm.github.io/IPTV/cctv-logo/CCTV-4_Logo.png" group-title="央视",CCTV 4 中文国际
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV 5" tvg-logo="https://l-zm.github.io/IPTV/cctv-logo/CCTV-5_Logo.png" group-title="央视",CCTV 5 体育
+http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV 1" tvg-logo="https://upload-images.jianshu.io/upload_images/8543327-a1e7dae53ce801dc.png" group-title="央视",CCTV 1 综合
 http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV 2" tvg-logo="https://upload-images.jianshu.io/upload_images/8543327-65ce9c713f0034de.png" group-title="央视",CCTV 2 财经
 http://117.148.187.37/PLTV/88888888/224/3221226138/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV 3" tvg-logo="https://upload-images.jianshu.io/upload_images/8543327-3e6851ea3b8365fd.png" group-title="央视",CCTV 3 综艺
 http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV 4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV 4 中文国际
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV 5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV 5 体育
+http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV 13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV 13 新闻 高清
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV 13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV 13 新闻
