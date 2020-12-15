@@ -2,7 +2,7 @@
 
 关于CCTV电视LOGO的素材
 
-![CCTV-1_Logo.png](https://upload-images.jianshu.io/upload_images/8543327-99b6b67e38d11a40.png)
+![CCTV-1_Logo.png](https://l-zm.github.io/IPTV/cctv-logo/CCTV-1_Logo.png)
 
 ![CCTV-2_Logo.png](https://upload-images.jianshu.io/upload_images/8543327-584ac55674861322.png)
 
